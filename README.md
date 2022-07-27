@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sadia-haris-ringthy
-- 👀 I’m interested in programming
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me sadiaharis20@gmail.com
